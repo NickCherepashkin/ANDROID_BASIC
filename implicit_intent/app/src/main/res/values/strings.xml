@@ -1,6 +1,11 @@
 <resources>
     <string name="app_name">implicit_intent</string>
+
     <string name="btn_open_web_text">Open Website</string>
     <string name="btn_open_loc_text">Open Location</string>
-    <string name="btn_open_web_text">Open Website</string>
+    <string name="btn_share_text">Share This Text</string>
+
+    <string name="edt_open_web_hint">http://developer.android.com</string>
+    <string name="edt_open_loc_hint">Golden Gate Bridge</string>
+    <string name="edt_share_hint">\'Twas brilling and the slithy toves</string>
 </resources>
